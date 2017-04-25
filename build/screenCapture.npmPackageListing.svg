@@ -1,19 +1,19 @@
 <svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 20:41:08 +0000   535015 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 20:41:08 +0000    12853 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 20:41:08 +0000     1075 bytes  LICENSE-MIT</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 20:41:08 +0000      483 bytes  LICENSE-WTFPL</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 20:41:08 +0000     4353 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 20:41:08 +0000    14435 bytes  dist/chartist.css</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 20:41:08 +0000    16399 bytes  dist/chartist.css.map</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 20:41:08 +0000   178221 bytes  dist/chartist.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 20:41:08 +0000    11508 bytes  dist/chartist.min.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 20:41:08 +0000    40214 bytes  dist/chartist.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 20:41:08 +0000   240814 bytes  dist/chartist.min.js.map</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 20:41:08 +0000     7099 bytes  dist/scss/chartist.scss</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 20:41:08 +0000     3283 bytes  dist/scss/settings/_chartist-settings.scss</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 20:41:08 +0000     4278 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 09:56:27 +0000   535015 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 09:56:27 +0000    12853 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 09:56:27 +0000     1075 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 09:56:27 +0000      483 bytes  LICENSE-WTFPL</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 09:56:27 +0000     4353 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 09:56:27 +0000    14435 bytes  dist/chartist.css</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 09:56:27 +0000    16399 bytes  dist/chartist.css.map</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 09:56:27 +0000   178221 bytes  dist/chartist.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 09:56:27 +0000    11508 bytes  dist/chartist.min.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 09:56:27 +0000    40214 bytes  dist/chartist.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 09:56:27 +0000   240814 bytes  dist/chartist.min.js.map</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 09:56:27 +0000     7099 bytes  dist/scss/chartist.scss</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 09:56:27 +0000     3283 bytes  dist/scss/settings/_chartist-settings.scss</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 09:56:27 +0000     4278 bytes  package.json</tspan>
 </text>
 </svg>
